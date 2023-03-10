@@ -68,7 +68,7 @@ Grandes Telas: acima de 1200px
 /* Tela Deitada */
 @media screen and (orientation:landscape) {
     section#login {
-        width: 70vw;
+        width: 80vw;
         height: 80vh;
     }
 
